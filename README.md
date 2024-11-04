@@ -20,3 +20,5 @@ The **Personal Expense Tracker** is a simple yet powerful application designed t
 - **Efficiency**: The app is lightweight, focusing on simplicity and essential features, making it accessible to users with varying tech experience.
 
 The **Personal Expense Tracker** provides a straightforward, reliable, and organized way to manage daily expenses in a single window.
+
+![image](https://github.com/user-attachments/assets/527e3792-6f52-445c-b263-c450544b9768)
